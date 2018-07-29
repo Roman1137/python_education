@@ -15,6 +15,14 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Variables", "Variables\Vari
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Operations_with_numbers", "Operations_with_numbers\Operations_with_numbers.pyproj", "{6268D617-E9D8-4BD2-BD2F-3DFB62557F6D}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lesson 3 - Условные конструкции", "Lesson 3 - Условные конструкции", "{17C9F870-FCAF-461B-AC71-FE54D93EE772}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Algorithm", "Algorithm\Algorithm.pyproj", "{808438BD-0CC1-4C0E-B720-CE9645646784}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Ternary_operator", "Ternary_operator\Ternary_operator.pyproj", "{41BF2450-6D00-4AAC-B0A9-E2965D9A4B38}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Logical_values", "Logical_values\Logical_values.pyproj", "{F0DC3B8C-5B6A-474B-8A98-9A60F32BA7B2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +35,12 @@ Global
 		{41E7B6FE-E669-48F9-9370-36D0C324049E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6268D617-E9D8-4BD2-BD2F-3DFB62557F6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{6268D617-E9D8-4BD2-BD2F-3DFB62557F6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{808438BD-0CC1-4C0E-B720-CE9645646784}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{808438BD-0CC1-4C0E-B720-CE9645646784}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41BF2450-6D00-4AAC-B0A9-E2965D9A4B38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41BF2450-6D00-4AAC-B0A9-E2965D9A4B38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0DC3B8C-5B6A-474B-8A98-9A60F32BA7B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0DC3B8C-5B6A-474B-8A98-9A60F32BA7B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -37,6 +51,10 @@ Global
 		{F62F5FD3-95BA-4F13-B9AF-616A29C8624B} = {18041354-0E52-445C-94D2-C8DCE999A24C}
 		{41E7B6FE-E669-48F9-9370-36D0C324049E} = {F62F5FD3-95BA-4F13-B9AF-616A29C8624B}
 		{6268D617-E9D8-4BD2-BD2F-3DFB62557F6D} = {F62F5FD3-95BA-4F13-B9AF-616A29C8624B}
+		{17C9F870-FCAF-461B-AC71-FE54D93EE772} = {18041354-0E52-445C-94D2-C8DCE999A24C}
+		{808438BD-0CC1-4C0E-B720-CE9645646784} = {17C9F870-FCAF-461B-AC71-FE54D93EE772}
+		{41BF2450-6D00-4AAC-B0A9-E2965D9A4B38} = {17C9F870-FCAF-461B-AC71-FE54D93EE772}
+		{F0DC3B8C-5B6A-474B-8A98-9A60F32BA7B2} = {17C9F870-FCAF-461B-AC71-FE54D93EE772}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {65FB206B-75CA-43A4-B4B3-C6B5D66867A9}
